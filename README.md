@@ -1,5 +1,5 @@
 # task1
-Name:Akash Kumar Company:CODTECH IT SOLUTION ID: Domain:Python Programming Duration:july to august 2024 Mentor:SANTHOSH KUMAR
+Name:Akash Kumar Company:CODTECH IT SOLUTION ID:CT12DS4849 Domain:Python Programming Duration:july to august 2024 Mentor:SANTHOSH KUMAR
 
 Overview of the project
 
